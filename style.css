@@ -96,6 +96,16 @@ body{
     .carousel-caption p{
         width: 100%;
     }
+    .card{
+        margin-bottom: 30px;
+    }
+    .img-area img{
+        width: 100%;
+    }
+    .about-text{
+        padding-top: 50px;
+    }
+    
 }
 
 
